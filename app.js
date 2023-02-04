@@ -39,6 +39,46 @@ const quizData = [
     d: "None of the above",
     correct: "b",
   },
+  {
+    question: "How many minutes are in a full week?",
+    a: "10 080",
+    b: "12 800",
+    c: "13 600",
+    d: "14 400",
+    correct: "a",
+  },
+  {
+    question: "Who was the Ancient Greek God of the Sun?",
+    a: "Zeus",
+    b: "Hera",
+    c: "Apollo",
+    d: "Hades",
+    correct: "c",
+  },
+  {
+    question: "How many bones do we have in an ear?",
+    a: "0",
+    b: "1",
+    c: "2",
+    d: "3",
+    correct: "d",
+  },
+  {
+    question: "Kratos is the main character of what video game series?",
+    a: "Witcher 3",
+    b: "Hogwarts Legacy",
+    c: "Green Hell",
+    d: "God of War",
+    correct: "d",
+  },
+  {
+    question: "Which planet has the most moons?",
+    a: "Mars",
+    b: "Saturn",
+    c: "Neptun",
+    d: "Earth",
+    correct: "b",
+  },
 ];
 
 const questionEl = document.getElementById("question");
