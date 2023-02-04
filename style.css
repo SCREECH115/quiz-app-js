@@ -104,3 +104,12 @@ button:hover {
   background-color: white;
   color: black;
 }
+
+@media (max-width: 768px) {
+  .quiz-container {
+    width: 300px;
+  }
+  .quiz-header {
+    padding: 1rem;
+  }
+}
